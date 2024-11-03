@@ -158,3 +158,5 @@ ax3.set_ylabel('Memory (bytes)')
 
 plt.tight_layout()
 plt.show()
+
+print("I did a change")
